@@ -1,0 +1,13 @@
+# Python specific
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+venv/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.h5
+*.hdf5
